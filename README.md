@@ -18,7 +18,7 @@
 11. Run "serverless remove" after deployment finish to remove items in AWS.
 
 ## Create CI/CD pipeline
-12. Add "node_module" and ".serverless" into .gitignore file.
+12. Add "node_modules" and ".serverless" into .gitignore file.
 13. Create "main.yml" file and input and save the relevant code in ".github/workflows".
 14. Run "npm install jest --save-dev".
 15. Create a index.test.js file and input and save the relevant code.
@@ -32,4 +32,4 @@
 
 https://github.com/apkiys/github-3.12-chris
 
-![image](https://github.com/apkiys/6m-cloud-3.12-continuous-deployment-serverless/assets/20112494/186eff93-85ac-4204-9c51-d2709169764d)
+![image](https://github.com/apkiys/6m-cloud-3.12-continuous-deployment-serverless/assets/20112494/1168e46b-5ee2-46be-92fb-508f73fded88)
